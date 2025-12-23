@@ -50,7 +50,7 @@ I compare coefficients across models, and interpret non-linear models using **Av
 ## Appendix: Figures
 
 ### Figure 1 — Predicted probability vs distance (Logit)
-![Predicted probability of being highly rated vs distance (Logit)](figures/graph1_pred_prob_vs_distance_logit.png)
+![Figure 1](figures/graph1_pred_prob_vs_distance_logit.png)
 
 ### Figure 2 — Highly-rated share by stars
-![Highly-rated share by star level](figures/graph2_highly_rated_share_by_stars.png)
+![Figure 2](figures/graph2_highly_rated_share_by_stars.png)
